@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google-scholar.svg" alt="@arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
 
 <a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658/" target="blank">
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/research-gate.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 
 </p>
