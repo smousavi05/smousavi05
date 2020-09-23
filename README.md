@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a align="center" href="https://profiles.stanford.edu/seyed-mostafa-mousavi">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=smousavi05&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smousavi05&layout=compact&theme=gotham" alt="languages" height="165">
+    </p>
+</a>
+
+<p align="center">
+
+<a href="https://profiles.stanford.edu/seyed-mostafa-mousavi" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
+</a>
+
+<a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google-scholar.svg" alt="@arshiamidos" height="20" width="20" />
+</a>
+
+<a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+
+<a href="https://github.com/smousavi05" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/research-gate.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+
+</p>
