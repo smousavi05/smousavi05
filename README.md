@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     <p align="center">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=STEAD&theme=tokyonight" />
+    </p>
 </a>
 
 <a href="https://profiles.stanford.edu/seyed-mostafa-mousavi" target="blank">
