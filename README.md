@@ -21,16 +21,16 @@ Here are some ideas to get you started:
     </p>
 </a>
 
-<a href="https://github.com/smousavi05/EQTransformer">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=EQTransformer&theme=tokyonight" />
+<a align="center" href="https://github.com/smousavi05/EQTransformer">
+    <p align="center">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=EQTransformer&theme=tokyonight" />
 </a>    
-<a href="https://github.com/smousavi05/STEAD">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=STEAD&theme=tokyonight" />
+<a align="center" href="https://github.com/smousavi05/STEAD">
+    <p align="center">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=STEAD&theme=tokyonight" />
 </a>
-
-<p align="center">
 
 <a href="https://profiles.stanford.edu/seyed-mostafa-mousavi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
