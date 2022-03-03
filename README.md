@@ -51,5 +51,12 @@ Here are some ideas to get you started:
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 
-
+<a href="https://github.com/smousavi05/EQTransformer">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=EQTransformer&theme=tokyonight" />
+</a>    
+<a href="https://github.com/smousavi05/STEAD">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=STEAD&theme=tokyonight" />
+</a>
 </p>
