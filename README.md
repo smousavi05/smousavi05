@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
 
-<a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658/" target="blank">
+<a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 
