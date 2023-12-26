@@ -56,9 +56,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/smousavi05" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
 </a>
-
-<a href="https://www.instagram.com/waltz_of_destiny/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arshiamidos" height="20" width="20" />
-</a>
     
 </p>
