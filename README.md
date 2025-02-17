@@ -33,6 +33,16 @@ Here are some ideas to get you started:
     </p>
 </a>
 
+</a>
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=smousavi05/EQTransformer,smousavi05/STEAD,smousavi05/Unsupervised_Deep_Learning,smousavi05/MagNet,Denoising-BTwavelet,smousavi05/dl_seismology,smousavi05/Denoising-Custom,smousavi05/Denoising-NeighSTFT,AI4EPS/QuakeFlow,maihao14/BlocklyEQTransformer,AI4EPS/EQNet,AI4EPS/GaMMA,AI4EPS/DeepDenoiser=Date)](https://star-history.com/#AI4EPS/QuakeFlow&AI4EPS/EQNet&AI4EPS/GaMMA&AI4EPS/DeepDenoiser&maihao14/BlocklyEQTransformer&smousavi05/EQTransformer$smousavi05/STEAD$smousavi05/Unsupervised_Deep_Learning$smousavi05/MagNet$Denoising-BTwavelet$smousavi05/dl_seismology$smousavi05/Denoising-Custom$smousavi05/Denoising-NeighSTFT)
+
+![](https://hit.yhype.me/github/profile?user_id=75299929)
+![](https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS)
+</a>
+
+
 <a href="https://mostafamousavi.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
