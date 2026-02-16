@@ -59,7 +59,6 @@ Here are some ideas to get you started:
     <a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" />
     </a>
-    
     &nbsp;
     <a href="https://twitter.com/smousavi05" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X/Twitter" height="25" width="25" />
