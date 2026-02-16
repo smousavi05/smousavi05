@@ -15,56 +15,57 @@ Here are some ideas to get you started:
 -->
 
 
-<a align="center" href="https://mostafamousavi.com">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smousavi05&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smousavi05&layout=compact&theme=gotham" alt="languages" height="165">
-    </p>
-</a>
+<div align="center">
+  <a href="[https://mostafamousavi.com](https://eps.harvard.edu/people/mostafa-mousavi/)">
+    <img src="https://github-readme-stats.vercel.app/api?username=smousavi05&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smousavi05&layout=compact&theme=gotham" alt="languages" height="165" />
+  </a>
 
-<a align="center" href="https://github.com/smousavi05/EQTransformer">
-    <p align="center">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <br/><br/>
+
+  <a href="https://github.com/smousavi05/EQTransformer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=EQTransformer&theme=tokyonight" />
-</a>    
-<a align="center" href="https://github.com/smousavi05/STEAD">
-    <p align="center">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  </a>
+  <a href="https://github.com/smousavi05/STEAD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smousavi05&repo=STEAD&theme=tokyonight" />
-    </p>
-</a>
+  </a>
 
-</a>
+  <br/><br/>
 
+  <a href="https://star-history.com/#AI4EPS/QuakeFlow&AI4EPS/EQNet&AI4EPS/GaMMA&AI4EPS/DeepDenoiser&maihao14/BlocklyEQTransformer&smousavi05/EQTransformer&smousavi05/STEAD&smousavi05/Unsupervised_Deep_Learning&smousavi05/MagNet&Denoising-BTwavelet&smousavi05/dl_seismology&smousavi05/Denoising-Custom&smousavi05/Denoising-NeighSTFT">
+    <img src="https://api.star-history.com/svg?repos=smousavi05/EQTransformer,smousavi05/STEAD,smousavi05/Unsupervised_Deep_Learning,smousavi05/MagNet,Denoising-BTwavelet,smousavi05/dl_seismology,smousavi05/Denoising-Custom,smousavi05/Denoising-NeighSTFT,AI4EPS/QuakeFlow,maihao14/BlocklyEQTransformer,AI4EPS/EQNet,AI4EPS/GaMMA,AI4EPS/DeepDenoiser&type=Date" alt="Star History Chart" style="max-width: 100%;" />
+  </a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=smousavi05/EQTransformer,smousavi05/STEAD,smousavi05/Unsupervised_Deep_Learning,smousavi05/MagNet,Denoising-BTwavelet,smousavi05/dl_seismology,smousavi05/Denoising-Custom,smousavi05/Denoising-NeighSTFT,AI4EPS/QuakeFlow,maihao14/BlocklyEQTransformer,AI4EPS/EQNet,AI4EPS/GaMMA,AI4EPS/DeepDenoiser=Date)](https://star-history.com/#AI4EPS/QuakeFlow&AI4EPS/EQNet&AI4EPS/GaMMA&AI4EPS/DeepDenoiser&maihao14/BlocklyEQTransformer&smousavi05/EQTransformer$smousavi05/STEAD$smousavi05/Unsupervised_Deep_Learning$smousavi05/MagNet$Denoising-BTwavelet$smousavi05/dl_seismology$smousavi05/Denoising-Custom$smousavi05/Denoising-NeighSTFT)
+  <br/><br/>
 
-![](https://hit.yhype.me/github/profile?user_id=75299929)
-![](https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS)
-</a>
+  <img src="https://hit.yhype.me/github/profile?user_id=75299929" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS" alt="Views" />
 
+  <br/><br/>
 
-<a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://www.webofscience.com/wos/author/record/194276" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://twitter.com/smousavi05" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-    
-</p>
+  <p>
+    <a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" />
+    </a>
+    &nbsp;
+    <a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" height="25" width="25" />
+    </a>
+    &nbsp;
+    <a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" />
+    </a>
+    &nbsp;
+    <a href="https://www.webofscience.com/wos/author/record/194276" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webofscience.svg" alt="Web of Science" height="25" width="25" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/smousavi05" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X/Twitter" height="25" width="25" />
+    </a>
+  </p>
+</div>
