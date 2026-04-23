@@ -67,5 +67,6 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/smousavi05" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="X" height="25" width="25" />
     </a>
+    &nbsp;
   </p>
 </div>
