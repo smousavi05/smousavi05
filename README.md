@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <p>
-<a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" /></a>&nbsp;
-<a href="https://topresearcherslist.com/Home/Profile/990344" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlescholar.svg" alt="Google Scholar" height="25" width="25" /></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" /></a>&nbsp;
-<a href="https://www.webofscience.com/wos/author/record/194276" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/clarivate.svg" alt="Web of Science" height="25" width="25" /></a>&nbsp;
+<a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" /></a>
+<a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlescholar.svg" alt="Google Scholar" height="25" width="25" /></a>
+<a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" /></a>
+<a href="https://www.webofscience.com/wos/author/record/194276" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/clarivate.svg" alt="Web of Science" height="25" width="25" /></a>
+<a href="https://topresearcherslist.com/Home/Profile/990344" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
 <a href="https://twitter.com/smousavi05" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="X" height="25" width="25" /></a>
 </p>
