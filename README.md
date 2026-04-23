@@ -36,35 +36,16 @@ Here are some ideas to get you started:
     <img src="https://api.star-history.com/svg?repos=smousavi05/EQTransformer,smousavi05/STEAD,smousavi05/Unsupervised_Deep_Learning,smousavi05/MagNet,Denoising-BTwavelet,smousavi05/dl_seismology,smousavi05/Denoising-Custom,smousavi05/Denoising-NeighSTFT,AI4EPS/QuakeFlow,maihao14/BlocklyEQTransformer,AI4EPS/EQNet,AI4EPS/GaMMA,AI4EPS/DeepDenoiser&type=Date" alt="Star History Chart" style="max-width: 100%;" />
   </a>
 
-  <br/><br/>
+<br/><br/>
+<img src="https://hit.yhype.me/github/profile?user_id=75299929" alt="Hits" />
+<img src="https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS" alt="Views" />
+<br/><br/>
 
-  <img src="https://hit.yhype.me/github/profile?user_id=75299929" alt="Hits" />
-  <img src="https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS" alt="Views" />
-
-  <br/><br/>
-  <p><a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank">
-      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" />
-    </a>
-    &nbsp;
-    <a href="https://topresearcherslist.com/Home/Profile/990344" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" />
-    </a>
-    &nbsp;
-    <a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlescholar.svg" alt="Google Scholar" height="25" width="25" />
-    </a>
-    &nbsp;
-    <a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" />
-    </a>
-    &nbsp;
-    <a href="https://www.webofscience.com/wos/author/record/194276" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/clarivate.svg" alt="Web of Science" height="25" width="25" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/smousavi05" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="X" height="25" width="25" />
-    </a>
-    &nbsp;
-  </p>
-</div>
+<p>
+<a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" /></a>&nbsp;
+<a href="https://topresearcherslist.com/Home/Profile/990344" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=fcXLzLgAAAAJ&hl=en" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlescholar.svg" alt="Google Scholar" height="25" width="25" /></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Smostafa_Mousavi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/researchgate.svg" alt="ResearchGate" height="25" width="25" /></a>&nbsp;
+<a href="https://www.webofscience.com/wos/author/record/194276" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/clarivate.svg" alt="Web of Science" height="25" width="25" /></a>&nbsp;
+<a href="https://twitter.com/smousavi05" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" alt="X" height="25" width="25" /></a>
+</p>
