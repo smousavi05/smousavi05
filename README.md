@@ -48,7 +48,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/s-mostafa-mousavi-9a906658" target="_blank">
+    <a href="https://topresearcherslist.com/Home/Profile/990344" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" />
     </a>
     &nbsp;
