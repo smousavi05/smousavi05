@@ -42,9 +42,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=smousavi05&label=VIEWS" alt="Views" />
 
   <br/><br/>
-
-  <p>
-    <a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank">
+  <p><a href="https://eps.harvard.edu/people/mostafa-mousavi/" target="_blank">
       <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="25" width="25" />
     </a>
     &nbsp;
